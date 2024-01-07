@@ -1,0 +1,26 @@
+:root {
+    --text: #12120f;
+    --background: #fffacc;
+    --primary: #AF4747;
+    --secondary: #b1bbbf;
+    --accent: #9a99ac;
+    }
+    
+    
+    
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--background);
+}
+
+h1 {
+    color: var(--primary);
+    text-align: center;
+}
+
+iframe {
+    display: block;
+    margin: auto;
+}
